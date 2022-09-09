@@ -1,0 +1,55 @@
+Function component:
+--------------------
+import React from 'react';
+
+function TextField(props) {
+    return (
+        <div>
+           <input type='text'/> 
+        </div>
+    );
+}
+
+export default TextField;
+
+
+
+
+Class component sintax :
+-------------------------------
+
+import { Component } from "react";
+
+
+export default class UserDetails extends Component {
+
+   
+    render() {
+      
+        return (
+            <div>
+                Welcome to User Details
+            </div>
+        );
+    }
+}
+
+
+
+
+npm i react-router-dom@5.2.0
+
+
+
+ npm i redux react-redux
+
+
+
+https://app.mymapit.in/code4/tiny/PyE88x
+
+
+
+
+ReactMaterial:
+--------------------
+https://www.dropbox.com/sh/dpdw0rw0zfg0b5g/AAD3vi1_AigNCf28iVRrmYBea?dl=0
